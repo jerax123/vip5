@@ -13,6 +13,7 @@ print(f,g)
 #格式化输出
 #print('%d','%f','%s')%(d,f,g)
 
+
 #format输出
 #print('a={},b={},c={}'.format(a,b,c))
 
